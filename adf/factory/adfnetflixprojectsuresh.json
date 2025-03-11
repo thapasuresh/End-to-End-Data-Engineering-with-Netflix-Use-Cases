@@ -1,0 +1,9 @@
+{
+	"name": "adfnetflixprojectsuresh",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fce0cc39-0ff9-4002-b577-c1b52cd7fba0",
+		"tenantId": "cc9595c6-7ffa-4b4b-9c18-f8693759530e"
+	}
+}
